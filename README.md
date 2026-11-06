@@ -175,6 +175,7 @@
 | [TikTok for Business](https://getstarted.tiktok.com/) | **新增长引擎**。短视频与直播带货的流量高地，尤其适合 Z 世代受众与游戏出海。 |
 | [Pinterest Ads](https://ads.pinterest.com/) | **高客单价蓝海**。适合家居、时尚、艺术类商品，用户购买意向高且视觉属性强。 |
 | [HypeAuditor / Modash](https://hypeauditor.com/) | **KOL/KOC 撮合与审计**。通过海量数据分析达人真实影响力，避免刷量坑。 |
+| [TKMetrics](https://tkmetrics.com/) | **TikTok 账号数据**。查询任意 TikTok 账号的粉丝数、互动率和视频表现。 |
 | [Grin / Upfluence](https://grin.co/) | **达人管理平台**。一站式处理全球博主联系、寄样、合同与佣金结算的 SaaS 系统。 |
 
 ### 能力开放平台 (Capability & API Platforms)
